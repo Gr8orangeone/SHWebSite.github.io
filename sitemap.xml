@@ -6,6 +6,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://SpartanHackers.com/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://SpartanHackers.com/tablet/index.html"/>
     <image:image>
       <image:loc>http://SpartanHackers.com/images/img_20170324_202832000-1-.jpg</image:loc>
     </image:image>
