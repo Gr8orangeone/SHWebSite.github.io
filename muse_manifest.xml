@@ -1,64 +1,90 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SpartanHackers.com" resolutions="1x" timestamp="1490475703715">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SpartanHackers.com" resolutions="1x" timestamp="1490483281102">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="3781405349" ref="contact:photos:about:index:events:media:videos"/>
-    <file name="contact.css" crc="262379901" ref="contact"/>
-    <file name="photos.css" crc="163540982" ref="photos"/>
-    <file name="about.css" crc="4105389052" ref="about"/>
-    <file name="index.css" crc="4209865820" ref="index"/>
-    <file name="events.css" crc="297317272" ref="events"/>
+    <file name="master_a-master.css" crc="3781405349" ref="media:videos:photos:index:about:contact:events"/>
     <file name="media.css" crc="4192483363" ref="media"/>
     <file name="videos.css" crc="4154523615" ref="videos"/>
+    <file name="photos.css" crc="163540982" ref="photos"/>
+    <file name="index.css" crc="9150214" ref="index"/>
+    <file name="about.css" crc="4105389052" ref="about"/>
+    <file name="contact.css" crc="262379901" ref="contact"/>
+    <file name="events.css" crc="297317272" ref="events"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>events:phone>about:phone>contact:phone>media:phone>photos:phone>videos:index:about:events:media:videos:photos:contact"/>
     <file name="museutils.js" crc="4232573551" ref="phone>index:phone>events:phone>about:phone>contact:phone>media:phone>photos:phone>videos:index:about:events:media:videos:photos:contact"/>
     <file name="whatinput.js" crc="86476730" ref="phone>index:phone>events:phone>about:phone>contact:phone>media:phone>photos:phone>videos:index:about:events:media:videos:photos:contact"/>
     <file name="museconfig.js" crc="4152223963" ref="phone>index:phone>events:phone>about:phone>contact:phone>media:phone>photos:phone>videos:index:about:events:media:videos:photos:contact"/>
+    <file name="webpro.js" crc="3770351119" ref="phone>index:phone>events:phone>about:phone>contact:phone>media:phone>photos:phone>videos:index:about:events:media:videos:photos:contact"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="phone>index:phone>events:phone>about:phone>contact:phone>media:phone>photos:phone>videos:index:about:events:media:videos:photos:contact"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="phone>index:phone>events:phone>about:phone>contact:phone>media:phone>photos:phone>videos:index:about:events:media:videos:photos:contact"/>
+    <file name="touchswipe.js" crc="3912873526" ref="phone>index:phone>events:phone>about:phone>contact:phone>media:phone>photos:phone>videos:index:about:events:media:videos:photos:contact"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="phone>index:index:about:events:media:videos:photos:contact"/>
     <file name="jquery.watch.js" crc="3844535323" ref="phone>index:phone>events:phone>about:phone>contact:phone>media:phone>photos:phone>videos:index:about:events:media:videos:photos:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>events:phone>about:phone>contact:phone>media:phone>photos:phone>videos:index:about:events:media:videos:photos:contact"/>
     <file name="require.js" crc="4234670167" ref="phone>index:phone>events:phone>about:phone>contact:phone>media:phone>photos:phone>videos:index:about:events:media:videos:photos:contact"/>
-    <file name="webpro.js" crc="3770351119" ref="index:about:events:media:videos:photos:contact"/>
-    <file name="musewpslideshow.js" crc="4244742588" ref="index:about:events:media:videos:photos:contact"/>
-    <file name="jquery.museoverlay.js" crc="432750910" ref="index:about:events:media:videos:photos:contact"/>
-    <file name="touchswipe.js" crc="3912873526" ref="index:about:events:media:videos:photos:contact"/>
-    <file name="jquery.musemenu.js" crc="38860304" ref="index:about:events:media:videos:photos:contact"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:about:events:media:videos:photos:contact"/>
-    <file name="form_check.php" crc="3841221102" ref="contact"/>
-    <file name="form_throttle.php" crc="4048049783" ref="contact"/>
-    <file name="form_process.php" crc="3899230280" ref="contact"/>
+    <file name="form_check.php" crc="3841221102" ref="phone>contact"/>
+    <file name="form_throttle.php" crc="4048049783" ref="phone>contact"/>
+    <file name="form_process.php" crc="3899230280" ref="phone>contact"/>
+    <file name="form-u3068.php" crc="3758878388" ref="phone>contact"/>
     <file name="form-u746.php" crc="76442852" ref="contact"/>
   </folder>
   <folder name="images">
+    <file name="img_20170324_202832000-1-.jpg" crc="3859644849" seo="true" ref="phone>index:phone>events:phone>about:phone>contact:phone>media:phone>photos:phone>videos:index:about:events:media:videos:photos:contact">
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="photos" alt=""/>
+      <caption webpage="photos" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:phone>events:phone>about:phone>contact:phone>media:phone>photos:phone>videos:index:about:events:media:videos:photos:contact"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:phone>events:phone>photos:index:photos"/>
     <file name="spartan hakers 2 no rgb2.png" crc="4079781346" seo="true" ref="phone>index:phone>events:phone>about:phone>contact:phone>media:phone>photos:phone>videos">
-      <caption webpage="about" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="photos" alt=""/>
       <caption webpage="videos" alt=""/>
       <caption webpage="media" alt=""/>
-      <caption webpage="events" alt=""/>
-    </file>
-    <file name="img_20170324_202832000-1-.jpg" crc="3859644849" seo="true" ref="index:about:events:media:videos:photos:contact">
       <caption webpage="about" alt=""/>
-      <caption webpage="photos" alt=""/>
-      <caption webpage="contact" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="videos" alt=""/>
-      <caption webpage="media" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="photos" alt=""/>
       <caption webpage="events" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:about:events:media:videos:photos:contact"/>
-    <file name="loading.gif" crc="3815509949" ref="index:photos"/>
+    <file name="u2553-4.png" crc="425113258" ref="phone>index"/>
+    <file name="u2562-4.png" crc="3810859261" ref="phone>index"/>
+    <file name="u2600-4.png" crc="82945671" ref="phone>index"/>
+    <file name="u2628-4.png" crc="3975354921" ref="phone>index"/>
+    <file name="u2655-4.png" crc="4220404312" ref="phone>index"/>
+    <file name="u3058-4.png" crc="3884327889" ref="phone>events:phone>about:phone>contact:phone>media:phone>photos:phone>videos"/>
+    <file name="u3119-4.png" crc="4095199792" ref="phone>media"/>
+    <file name="u3120-4.png" crc="3853656143" ref="phone>media"/>
+    <file name="cactus-crop-u3215.jpg" crc="4062826848" seo="true" ref="phone>photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="road-crop-u3211.jpg" crc="248846841" seo="true" ref="phone>photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="trees-crop-u3213.jpg" crc="3980026990" seo="true" ref="phone>photos">
+      <caption webpage="photos" alt=""/>
+    </file>
     <file name="sh-logo.svg" crc="459609236" seo="true" ref="index:about:events:media:videos:photos:contact">
-      <caption webpage="about" alt=""/>
-      <caption webpage="photos" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="videos" alt=""/>
       <caption webpage="media" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="photos" alt=""/>
       <caption webpage="events" alt=""/>
     </file>
     <file name="sh logo_poster_.png" crc="176574039" ref="index"/>
+    <file name="u706-4.png" crc="444770488" ref="index"/>
     <file name="u98-4.png" crc="415363485" ref="index:about:events:media:videos:photos:contact"/>
     <file name="u197-4.png" crc="3846348778" ref="index:about:events:media:videos:photos:contact"/>
     <file name="u156-4.png" crc="356769588" ref="index:about:events:media:videos:photos:contact"/>
@@ -90,28 +116,29 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="381628658" ref="phone>index:phone>events:phone>media:phone>about:phone>contact:phone>photos:phone>videos"/>
-      <file name="index.css" crc="412859757" ref="phone>index"/>
-      <file name="events.css" crc="412859757" ref="phone>events"/>
-      <file name="media.css" crc="412859757" ref="phone>media"/>
-      <file name="about.css" crc="412859757" ref="phone>about"/>
-      <file name="contact.css" crc="412859757" ref="phone>contact"/>
-      <file name="photos.css" crc="412859757" ref="phone>photos"/>
-      <file name="videos.css" crc="412859757" ref="phone>videos"/>
+      <file name="master_a-master-copy.css" crc="4078656708" ref="phone>contact:phone>media:phone>about:phone>videos:phone>events:phone>photos"/>
+      <file name="master_a-master.css" crc="3765798260" ref="phone>index"/>
+      <file name="contact.css" crc="3767605987" ref="phone>contact"/>
+      <file name="media.css" crc="61581944" ref="phone>media"/>
+      <file name="about.css" crc="117524129" ref="phone>about"/>
+      <file name="videos.css" crc="3963057249" ref="phone>videos"/>
+      <file name="index.css" crc="200299337" ref="phone>index"/>
+      <file name="events.css" crc="62836919" ref="phone>events"/>
+      <file name="photos.css" crc="124872706" ref="phone>photos"/>
     </folder>
-    <file name="index.html" crc="482925930" seo="true" mt="1490475565749" redirect="true"/>
-    <file name="events.html" crc="3931507167" seo="true" mt="1490475565749" redirect="true"/>
-    <file name="about.html" crc="3827898086" seo="true" mt="1490475565749" redirect="true"/>
-    <file name="contact.html" crc="3777795943" seo="true" mt="1490475565749" redirect="true"/>
-    <file name="media.html" crc="450806035" seo="true" mt="1490475565749" redirect="true"/>
-    <file name="photos.html" crc="3865302167" seo="true" mt="1490475565749" redirect="true"/>
-    <file name="videos.html" crc="4218818115" seo="true" mt="1490475565749" redirect="true"/>
+    <file name="index.html" crc="148580294" seo="true" mt="1490482440485" redirect="true"/>
+    <file name="events.html" crc="353907205" seo="true" mt="1490479877417" redirect="true"/>
+    <file name="about.html" crc="3806612916" seo="true" mt="1490479877417" redirect="true"/>
+    <file name="contact.html" crc="4255772589" seo="true" mt="1490479877417" redirect="true"/>
+    <file name="media.html" crc="4074573212" seo="true" mt="1490481338446" redirect="true"/>
+    <file name="photos.html" crc="156677693" seo="true" mt="1490481164525" redirect="true"/>
+    <file name="videos.html" crc="489172811" seo="true" mt="1490482552825" redirect="true"/>
   </folder>
-  <file name="index.html" crc="95620996" seo="true" mt="1490475365002" redirect="true"/>
-  <file name="about.html" crc="10204199" seo="true" mt="1490475365342" redirect="true"/>
-  <file name="events.html" crc="4152406554" seo="true" mt="1490475365163" redirect="true"/>
-  <file name="media.html" crc="181729127" seo="true" mt="1490475365703" redirect="true"/>
-  <file name="videos.html" crc="93347447" seo="true" mt="1490475365928" redirect="true"/>
-  <file name="photos.html" crc="224476842" seo="true" mt="1490475365819" redirect="true"/>
-  <file name="contact.html" crc="3784292245" seo="true" mt="1490475365558" redirect="true"/>
+  <file name="index.html" crc="120648755" seo="true" mt="1490483136801" redirect="true"/>
+  <file name="about.html" crc="4179249685" seo="true" mt="1490475365342" redirect="true"/>
+  <file name="events.html" crc="3891809260" seo="true" mt="1490475365163" redirect="true"/>
+  <file name="media.html" crc="3802454905" seo="true" mt="1490475365703" redirect="true"/>
+  <file name="videos.html" crc="80205914" seo="true" mt="1490475365928" redirect="true"/>
+  <file name="photos.html" crc="4230406864" seo="true" mt="1490475365819" redirect="true"/>
+  <file name="contact.html" crc="513660958" seo="true" mt="1490475365558" redirect="true"/>
 </manifest>
