@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SpartanHackers.com" resolutions="1x" timestamp="1490713744227">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SpartanHackers.com" resolutions="1x" timestamp="1490713968175">
   <folder name="tablet">
     <folder name="css">
       <file name="index.css" crc="339456551" ref="tablet>index"/>
@@ -27,11 +27,11 @@
     <file name="photos.css" crc="4242628106" ref="photos"/>
     <file name="index.css" crc="4253282489" ref="index"/>
     <file name="about.css" crc="153191518" ref="about"/>
-    <file name="contact.css" crc="4147858161" ref="contact"/>
+    <file name="contact.css" crc="3899127767" ref="contact"/>
     <file name="events.css" crc="3873539310" ref="events"/>
     <file name="nomq_preview_master_a-master.css" crc="3893296755" ref="media:contact:index:videos:photos:events:about"/>
     <file name="nomq_media.css" crc="13614021" ref="media"/>
-    <file name="nomq_contact.css" crc="29386135" ref="contact"/>
+    <file name="nomq_contact.css" crc="4148516198" ref="contact"/>
     <file name="nomq_index.css" crc="4074340018" ref="index"/>
     <file name="nomq_videos.css" crc="267863261" ref="videos"/>
     <file name="nomq_photos.css" crc="4113796568" ref="photos"/>
@@ -208,5 +208,5 @@
   <file name="media.html" crc="4049346291" seo="true" mt="1490712186700" redirect="true"/>
   <file name="videos.html" crc="358017261" seo="true" mt="1490712186737" redirect="true"/>
   <file name="photos.html" crc="3894733426" seo="true" mt="1490712186700" redirect="true"/>
-  <file name="contact.html" crc="3983926047" seo="true" mt="1490713730876" redirect="true"/>
+  <file name="contact.html" crc="422046207" seo="true" mt="1490713949787" redirect="true"/>
 </manifest>
