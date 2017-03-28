@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://SpartanHackers.com/index.html</loc>
-    <lastmod>2017-03-25</lastmod>
+    <lastmod>2017-03-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://SpartanHackers.com/phone/index.html"/>
@@ -16,7 +16,7 @@
   </url>
   <url>
     <loc>http://SpartanHackers.com/about.html</loc>
-    <lastmod>2017-03-25</lastmod>
+    <lastmod>2017-03-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://SpartanHackers.com/phone/about.html"/>
@@ -29,7 +29,7 @@
   </url>
   <url>
     <loc>http://SpartanHackers.com/events.html</loc>
-    <lastmod>2017-03-25</lastmod>
+    <lastmod>2017-03-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://SpartanHackers.com/phone/events.html"/>
@@ -42,7 +42,7 @@
   </url>
   <url>
     <loc>http://SpartanHackers.com/media.html</loc>
-    <lastmod>2017-03-25</lastmod>
+    <lastmod>2017-03-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://SpartanHackers.com/phone/media.html"/>
@@ -52,10 +52,37 @@
     <image:image>
       <image:loc>http://SpartanHackers.com/images/sh-logo.svg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://SpartanHackers.com/images/cactus.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SpartanHackers.com/images/road.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SpartanHackers.com/images/trees.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SpartanHackers.com/images/road-crop-u4478.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SpartanHackers.com/images/cactus-crop-u4476.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SpartanHackers.com/images/trees-crop-u4480.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SpartanHackers.com/images/road-crop-u44782.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SpartanHackers.com/images/cactus-crop-u44762.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SpartanHackers.com/images/trees-crop-u44802.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://SpartanHackers.com/videos.html</loc>
-    <lastmod>2017-03-25</lastmod>
+    <lastmod>2017-03-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://SpartanHackers.com/phone/videos.html"/>
@@ -68,7 +95,7 @@
   </url>
   <url>
     <loc>http://SpartanHackers.com/photos.html</loc>
-    <lastmod>2017-03-25</lastmod>
+    <lastmod>2017-03-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://SpartanHackers.com/phone/photos.html"/>
@@ -99,7 +126,7 @@
   </url>
   <url>
     <loc>http://SpartanHackers.com/contact.html</loc>
-    <lastmod>2017-03-25</lastmod>
+    <lastmod>2017-03-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://SpartanHackers.com/phone/contact.html"/>
